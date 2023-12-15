@@ -40,10 +40,5 @@
         "files": [
             "include/wp.php"
         ]
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-translation": "2.0.114"
-        }
     }
 }
