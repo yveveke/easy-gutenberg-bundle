@@ -1,5 +1,5 @@
 {
-    "name": "agence-adeliom/easy-gutenberg-bundle",
+    "name": "yveveke/easy-gutenberg-bundle",
     "type": "symfony-bundle",
     "description": "A Symfony bundle for EasyAdmin that provide a flexible content editor",
     "keywords": [
@@ -8,7 +8,7 @@
         "editor",
         "flexible-content"
     ],
-    "homepage": "https://github.com/agence-adeliom/easy-gutenberg-bundle",
+    "homepage": "https://github.com/yveveke/easy-gutenberg-bundle",
     "license": "MIT",
     "authors": [
         {
