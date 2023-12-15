@@ -1,5 +1,5 @@
 {
-    "name": "agence-adeliom/easy-gutenberg-bundle",
+    "name": "yveveke/yveveke-gutenberg-bundle",
     "type": "symfony-bundle",
     "description": "A Symfony bundle for EasyAdmin that provide a flexible content editor",
     "keywords": [
